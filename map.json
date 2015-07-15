@@ -2,19 +2,22 @@
     "places": [
         {
             "title": "Title test 1",
-            "description": "Lorem Ipsum is simply dummy text. <img width='200' src='http://3.bp.blogspot.com/-uNn2NVR4zZw/VE_nk8GCyiI/AAAAAAAAD9k/XM_Qw5okv0o/s1600/evening-jog-lviv-2014-2.jpg'>",
+            "description": "Lorem Ipsum is simply dummy text. ",
+            "image": "<img width='200' src='http://3.bp.blogspot.com/-uNn2NVR4zZw/VE_nk8GCyiI/AAAAAAAAD9k/XM_Qw5okv0o/s1600/evening-jog-lviv-2014-2.jpg'>",
             "lat": 49.848950,
             "lng": 24.033097
         },
         {
             "title": "Title test 2",
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "",
             "lat": 49.850417,
             "lng": 24.028484
         },
         {
             "title": "Title test 3",
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "",
             "lat": 49.821167,
             "lng": 24.022658
         }
