@@ -16,7 +16,7 @@ function mapInit() {
     $.getJSON("map.json", {}, function(data) {
 
         $.each(data.places, function(i, item) {
-            $("#markers").append('<li><a href="#" rel="' + i + '">' + item.title + '</a></li>');
+            $("#markers").append('<tr><td><a href="#" rel="' + i + '">' + item.title + '</a></td><td>' + item.description + '</td></tr>');
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(item.lat, item.lng),
                 map: map,
