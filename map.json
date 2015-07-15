@@ -2,7 +2,7 @@
     "places": [
         {
             "title": "Title test 1",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text. <img width='200' src='http://3.bp.blogspot.com/-uNn2NVR4zZw/VE_nk8GCyiI/AAAAAAAAD9k/XM_Qw5okv0o/s1600/evening-jog-lviv-2014-2.jpg'>",
             "lat": 49.848950,
             "lng": 24.033097
         },
